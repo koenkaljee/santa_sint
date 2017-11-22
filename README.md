@@ -3,4 +3,4 @@ Hallo, leuk dat jullie dit lezen! In deze readme file komen allemaal belangrijke
 Op dit momen heb ik nog geen idee wat die dingen zouden zijn, dus is het vooral leeg :)
 Joe! Koen
 
-geweldig dit haha
+geweldig dit haha (marjolein)
