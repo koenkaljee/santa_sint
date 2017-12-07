@@ -65,5 +65,3 @@ if __name__ == '__main__':
     auth.set_access_token(access_token, access_token_secret)
     stream = Stream(auth, StdOutListener())
     stream.filter(locations=[52.428316, 4.738178, 52.304989, 5.012917])
-    
-    
